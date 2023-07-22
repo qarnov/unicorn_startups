@@ -34,6 +34,6 @@ Produced a 1-pager dashboard using Tableau.
 
 Tableau: [Link](https://public.tableau.com/app/profile/afdhal.abdel.qadir/viz/UnicornCompanies_16900400499610/Unicorns)
 
-![Unicorns-2]()
+![Unicorns-2](https://user-images.githubusercontent.com/76422084/255338857-4f0d76d9-7787-4630-b11d-fe53400ded63.png)
 
 
