@@ -31,6 +31,7 @@ Conducted simple data wrangling and data cleaning:
 ## 📊 Visualization
 
 Produced a 1-pager dashboard using Tableau answering the questions:
+
 Which unicorn companies have had the biggest return on investment?
 
 How long does it usually take for a company to become a unicorn? Has it always been this way?
