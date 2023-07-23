@@ -30,13 +30,7 @@ Conducted simple data wrangling and data cleaning:
 
 ## 📊 Visualization
 
-Produced a 1-pager dashboard using Tableau.
-
-Tableau: [Link](https://public.tableau.com/app/profile/afdhal.abdel.qadir/viz/UnicornCompanies_16900400499610/Unicorns)
-
-![Unicorns-2](https://user-images.githubusercontent.com/76422084/255338857-4f0d76d9-7787-4630-b11d-fe53400ded63.png)
-
-Answering the questions:
+Produced a 1-pager dashboard using Tableau answering the questions:
 Which unicorn companies have had the biggest return on investment?
 
 How long does it usually take for a company to become a unicorn? Has it always been this way?
@@ -44,3 +38,9 @@ How long does it usually take for a company to become a unicorn? Has it always b
 Which countries have the most unicorns? Are there any cities that appear to be industry hubs?
 
 Which investors have funded the most unicorns?
+
+
+Tableau: [Link](https://public.tableau.com/app/profile/afdhal.abdel.qadir/viz/UnicornCompanies_16900400499610/Unicorns)
+
+![Unicorns-2](https://user-images.githubusercontent.com/76422084/255338857-4f0d76d9-7787-4630-b11d-fe53400ded63.png)
+
