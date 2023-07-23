@@ -36,4 +36,11 @@ Tableau: [Link](https://public.tableau.com/app/profile/afdhal.abdel.qadir/viz/Un
 
 ![Unicorns-2](https://user-images.githubusercontent.com/76422084/255338857-4f0d76d9-7787-4630-b11d-fe53400ded63.png)
 
+Answering the questions:
+Which unicorn companies have had the biggest return on investment?
 
+How long does it usually take for a company to become a unicorn? Has it always been this way?
+
+Which countries have the most unicorns? Are there any cities that appear to be industry hubs?
+
+Which investors have funded the most unicorns?
